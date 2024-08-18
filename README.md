@@ -52,6 +52,8 @@ Website link: https://ds100.org/fa23/
 
 **Lab12**: PCA
 
+**Lab13**: K-Means, Hierarchical Agglomerative, and Spectral Clustering
+
 
 
 
